@@ -18,6 +18,8 @@
 
 - a = -9; b = -3 -> max = -3
 
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_30.09.2022/blob/main/Task2/Program.cs "Открыть")
+
 ---
 
 <u>***Задача 4:***</u>
@@ -29,6 +31,8 @@
 - 44, 5, 78 -> 78
 
 - 22 3 9 -> 22
+
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_30.09.2022/blob/main/Task4/Program.cs "Открыть")
 
 ---
 
@@ -42,6 +46,8 @@
 
 - 7 -> нет
 
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_30.09.2022/blob/main/Task6/Program.cs "Открыть")
+
 ---
 
 <u>***Задача 8:***</u>
@@ -51,5 +57,7 @@
 - 5 -> 2, 4
 
 - 8 -> 2, 4, 6, 8
+
+:point_right: [Перейти к решению]https://github.com/ANT050/Homework_30.09.2022/blob/main/Task8/Program.cs "Открыть")
 
 ---
