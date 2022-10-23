@@ -58,6 +58,6 @@
 
 - 8 -> 2, 4, 6, 8
 
-:point_right: [Перейти к решению]https://github.com/ANT050/Homework_30.09.2022/blob/main/Task8/Program.cs "Открыть")
+:point_right: [Перейти к решению]https:(//github.com/ANT050/Homework_30.09.2022/blob/main/Task8/Program.cs "Открыть")
 
 ---
